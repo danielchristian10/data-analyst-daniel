@@ -35,7 +35,7 @@ The table below are the example of dataset for this student complaints:
 # Methodology
 1. Data Collection and Preparation:
 
--. Tools Used: Python (Pandas) for loading and cleaning the dataset.
+-. Tools Used: Excel for loading and cleaning the dataset.
 
 -. Process: Cleaned the data by addressing missing values, correcting data types, and removing duplicates. Ensured that the dataset was ready for analysis.
 
@@ -44,12 +44,19 @@ The table below are the example of dataset for this student complaints:
 
 -. Complaint Frequency: Calculated the total number of complaints and the average number of complaints per month.
 
+![image](https://github.com/user-attachments/assets/6b436e30-2770-4da8-95c2-82f57f61bb21)
+
 -. Complaint Type Distribution: Summarized complaints by category (e.g., academic, facilities, administration).
+
+![image](https://github.com/user-attachments/assets/b7f054b9-d136-4b1e-ae6d-65c6b6088daf)
 
 -. Severity Analysis: Measured the distribution of complaints by severity level to understand the impact on student satisfaction.
 
+![image](https://github.com/user-attachments/assets/5a4f7df9-9fd6-410d-b3bd-bedc13719dfd)
+
 -. Resolution Status: Calculated the percentage of complaints that were resolved, pending, or unresolved.
 
+![image](https://github.com/user-attachments/assets/0997282e-5704-49af-9df7-967498ed2bad)
 
 3. Data Visualization:
 
@@ -57,10 +64,15 @@ The table below are the example of dataset for this student complaints:
 
 -. Bar Charts: Visualized the distribution of complaints by type and department.
 
+![image](https://github.com/user-attachments/assets/570ea5a9-353c-4b3c-8729-adf610527fdb)
+
 -. Pie Charts: Displayed the breakdown of resolution statuses (resolved vs. unresolved complaints).
+
+![image](https://github.com/user-attachments/assets/37808da9-5397-4caa-9bd2-caa059d374f2)
 
 -. Heatmaps: Illustrated complaints by location or department, identifying areas with higher complaint volumes.
 
+![image](https://github.com/user-attachments/assets/964a596a-3f55-4880-937c-94cdfbe07b36)
 
 4. Student Segmentation:
 
