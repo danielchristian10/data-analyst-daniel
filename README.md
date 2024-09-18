@@ -15,3 +15,73 @@ Resolution Status: Status of the complaint (e.g., resolved, pending, unresolved)
 Department Involved: The department responsible for addressing the complaint (e.g., academic, student services, facilities).
 Location: Campus or department associated with the complaint.
 ![image](https://github.com/user-attachments/assets/7c239fce-be77-42ee-a210-e1b7b3d8ed3e)
+# Methodology
+1. Data Collection and Preparation:
+
+Tools Used: Python (Pandas) for loading and cleaning the dataset.
+
+Process: Cleaned the data by addressing missing values, correcting data types, and removing duplicates. Ensured that the dataset was ready for analysis.
+
+2. Descriptive Statistics:
+
+Complaint Frequency: Calculated the total number of complaints and the average number of complaints per month.
+
+Complaint Type Distribution: Summarized complaints by category (e.g., academic, facilities, administration).
+
+Severity Analysis: Measured the distribution of complaints by severity level to understand the impact on student satisfaction.
+
+Resolution Status: Calculated the percentage of complaints that were resolved, pending, or unresolved.
+
+3. Data Visualization:
+
+Time Series Analysis: Created graphs to show the number of complaints filed over time, identifying spikes or decreases in complaints.
+
+Bar Charts: Visualized the distribution of complaints by type and department.
+
+Pie Charts: Displayed the breakdown of resolution statuses (resolved vs. unresolved complaints).
+
+Heatmaps: Illustrated complaints by location or department, identifying areas with higher complaint volumes.
+
+4. Student Segmentation:
+
+Segmented students based on the frequency and severity of complaints.
+
+Analyzed patterns in complaints across different student demographics (e.g., domestic vs. international students).
+
+5. Insights and Findings:
+
+Peak Complaint Periods: Identified high-complaint periods during midterms, finals, and registration times.
+
+Frequent Complaint Types: Noted that the majority of complaints were related to academic issues and administrative processes.
+
+Resolution Effectiveness: Found a trend of delays in resolving high-severity complaints, particularly those related to academic matters.
+
+6. Recommendations:
+
+Implement targeted interventions during peak complaint periods (e.g., midterms and registration) to reduce volume.
+
+Streamline academic support services and administrative processes to address the most frequent types of complaints.
+
+Establish a more robust complaint resolution system to improve response time for high-severity issues.
+
+![image](https://github.com/user-attachments/assets/10995dba-7f3e-4924-8aa2-9a2986e1780a)
+
+# Tools and Technologies
+
+Python (Pandas for data analysis, Matplotlib/Seaborn for visualization).
+
+Tableau/Power BI for creating visual dashboards and presenting key insights.
+
+Excel for initial data exploration and reporting.
+
+![image](https://github.com/user-attachments/assets/f2e6ae56-c088-4382-96e8-6a2e59745edb)
+
+Deliverables
+
+A detailed report summarizing the methods, key findings, and actionable recommendations.
+
+Visualizations and dashboards to present data clearly, including:
+
+A presentation for stakeholders outlining the insights and recommendations for improving student services.
+
+
